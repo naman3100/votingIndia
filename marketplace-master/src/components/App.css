@@ -1,0 +1,56 @@
+/* Styles go here */
+
+body
+{
+    /* background-image:url("https://cdn.pixabay.com/photo/2019/03/13/08/21/flag-4052439_960_720.jpg"); */
+    background: #FFEEEE;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #DDEFBB, #FFEEEE);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #DDEFBB, #FFEEEE); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background-size: cover;
+    color:black;
+    text-align:center;
+}
+
+#load
+{
+    font-size:50px;
+}
+
+table
+{
+    border : solid 1px black;
+ 
+    text-align:center;
+}
+
+#decBut
+{
+    margin:10px;
+    margin-left:10px;
+}
+
+#closeVoting
+{
+    font-size:40px;
+}
+
+td
+{
+    padding: 5px;
+    margin:3px;
+    font-size:25px;
+}
+th
+{
+    margin:3px;
+    padding:10px;
+    text-align:center;
+    font-size:25px;
+}
+
+#bb
+{
+    padding-top:50px;
+    
+}
+
